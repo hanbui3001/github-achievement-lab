@@ -10,3 +10,9 @@ This repository is used to practice a clean GitHub workflow:
 - Open pull requests.
 - Merge small documentation changes.
 - Track issues and close completed work.
+
+## Practice Checklist
+
+- Keep changes small and easy to review.
+- Write clear commit messages.
+- Prefer pull requests for visible project history.
